@@ -5,6 +5,10 @@ alta3resarch Python certification attempt
 
 Dad joke generator. For a never-endling list of dad jokes. Created for use of Python and API integration.
 
+To run:
+1) Install alta3research-pythoncert01.py
+2) Execute from shell: python3 alta3research-pythoncert01.py
+
 ### Prerequisites
 
 Python3
