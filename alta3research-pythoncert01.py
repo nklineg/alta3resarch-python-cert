@@ -8,9 +8,6 @@
 # get requests library
 import requests
 
-# get json library
-import json
-
 # get our colorful crayons 
 import crayons
 
